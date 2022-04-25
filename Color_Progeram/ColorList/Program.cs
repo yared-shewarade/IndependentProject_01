@@ -26,6 +26,51 @@ namespace ColorList
             //creating string list of colors
             List<string> Colors = new List<string>();
 
+            //adding list of colors in to Color list collection
+            Colors.Add("White");
+            Colors.Add("Red");
+            Colors.Add("Orange");
+            Colors.Add("Yellow");
+            Colors.Add("Green");
+            Colors.Add("Blue");
+            Colors.Add("Indigo");
+            Colors.Add("Violet");
+            Colors.Add("Black");
+            Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n");
+            //listing of color items in the list
+            Console.WriteLine("list of colors in the Colors list is:\n");
+            foreach (string color in Colors)
+            {
+                Console.WriteLine("    " + color);
+            }
+            Console.WriteLine("-------------------------------------------\n");
+
+            //counting the number of items in the Color list
+            int numberOfItem = Colors.Count;
+            Console.WriteLine("The Colors list has {0} items",numberOfItem);
+            Console.WriteLine("-------------------------------------------\n");
+
+            //Sorting the list
+            Colors.Sort();
+
+            Console.WriteLine("The sorted list of colors in the Colors list is:\n ");
+            foreach (string color in Colors)
+            {
+                Console.WriteLine("    " + color);
+            }
+            Console.WriteLine("-------------------------------------------\n");
+
+            //finding the index number of the list
+            int index = Colors.IndexOf("Violet");
+            Console.WriteLine("The index number of Violet color in the list is: {0}", index);
+            Console.WriteLine("-------------------------------------------\n");
+
+            //removing a single item from the list
+            Colors.Remove("Violet");
+
+            //Inserting a single item in the specified location
+            Colors.Insert(7,"Purple");
+            //....................................................................................................
             //Listing all colors from the Color list collection
             Console.WriteLine("Finally, the list of colors available in the Colors list is:\n ");
             foreach (string color in Colors)

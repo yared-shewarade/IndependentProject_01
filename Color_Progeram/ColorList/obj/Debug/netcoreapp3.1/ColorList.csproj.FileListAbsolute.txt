@@ -1,0 +1,13 @@
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\bin\Debug\netcoreapp3.1\ColorList.exe
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\bin\Debug\netcoreapp3.1\ColorList.deps.json
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\bin\Debug\netcoreapp3.1\ColorList.runtimeconfig.json
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\bin\Debug\netcoreapp3.1\ColorList.runtimeconfig.dev.json
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\bin\Debug\netcoreapp3.1\ColorList.dll
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\bin\Debug\netcoreapp3.1\ColorList.pdb
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\obj\Debug\netcoreapp3.1\ColorList.csprojAssemblyReference.cache
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\obj\Debug\netcoreapp3.1\ColorList.AssemblyInfoInputs.cache
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\obj\Debug\netcoreapp3.1\ColorList.AssemblyInfo.cs
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\obj\Debug\netcoreapp3.1\ColorList.csproj.CoreCompileInputs.cache
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\obj\Debug\netcoreapp3.1\ColorList.dll
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\obj\Debug\netcoreapp3.1\ColorList.pdb
+D:\City University\Computer Science 1\CS132\Programming Exercise (PE)\PE10_ShewaradeYared\PE10_02\ColorList\obj\Debug\netcoreapp3.1\ColorList.genruntimeconfig.cache

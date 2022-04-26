@@ -70,7 +70,36 @@ namespace ColorList
 
             //Inserting a single item in the specified location
             Colors.Insert(7,"Purple");
-            //....................................................................................................
+
+            //Listing of item after removing and inserting items
+            Console.WriteLine("The list of the modified list is:\n");
+            foreach(string color in Colors)
+            {
+                Console.WriteLine("    " + color);
+            }
+            Console.WriteLine("-------------------------------------------\n");
+
+            //checking the color items in the list of Colors
+            if (Colors.Contains("magenta"))
+            {
+                Console.WriteLine("Magenta is in the list");
+            }
+            else
+                Console.WriteLine("Sorry, Magenta is not in the list");
+            Console.WriteLine("-------------------------------------------\n");
+
+            //adding Magenta in the list
+            Colors.Add("Magenta");
+
+            //Checkin if Magenta is in the list
+            if (Colors.Contains("Magenta"))
+            {
+                Console.WriteLine("Now, Magenta is in the list");
+            }
+            else
+                Console.WriteLine("Sorry, Magenta is not in the list");
+            Console.WriteLine("-------------------------------------------\n");
+            
             //Listing all colors from the Color list collection
             Console.WriteLine("Finally, the list of colors available in the Colors list is:\n ");
             foreach (string color in Colors)
